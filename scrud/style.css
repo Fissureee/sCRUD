@@ -1,0 +1,24 @@
+table, th, td{
+    border-style: solid;
+    border-color: black;
+    border-collapse: collapse;
+    padding: 1rem;
+}
+.add{
+    margin-left: 25%;
+}
+.title{
+    text-align: center;
+}
+.box{
+    border-style: solid;
+    border-color: rgb(109, 109, 109);
+    margin: auto;
+    max-height: 25rem;
+    width: 50%;
+    overflow: auto;
+    
+}
+button{
+    align-content: center;
+}
